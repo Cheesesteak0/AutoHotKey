@@ -1,3 +1,0 @@
-^CtrlBreak::
-Run, Task Manager,
-return
