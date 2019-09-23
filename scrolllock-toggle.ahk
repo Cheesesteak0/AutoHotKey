@@ -15,3 +15,6 @@ Else ; If program is running, ErrorLevel = process id for the target program -> 
 return
 
 ^Esc::ExitApp
+
+;the purpose of this is to toggle the Application switcher on and off. Unfortunately it
+;did not work with the original script so I have it using the .exe file instead
