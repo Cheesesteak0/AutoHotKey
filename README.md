@@ -9,4 +9,4 @@ Looking inside the file I left notes on exactly what each one does and the keybo
 Also I use this at the end of all of my scripts: ^Esc::ExitApp.
 What this does is it allows me to force shut down any currently running .ahk file by press Ctrl+Esc.
 
-This purpose of this is mainly just incase one of the scripts malfunctions this will shut it and the rest running down.
+This purpose of this is mainly just in case one of the scripts malfunctions this will shut it and the rest running down.
