@@ -1,5 +1,5 @@
 # AutoHotKey
-My personal autohotkey scripts
+My personal autohotkey scripts (and a few I grabbed and changed up for personal use)
 
 The naming scheme is as follows:
 
