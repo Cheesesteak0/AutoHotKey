@@ -7,7 +7,7 @@ The name of the script briefly tells what it does.
 Looking inside the file I left notes on exactly what each one does and the keyboard shortcuts to activate them.
 
 ### Standard script endings
-End script: ^Esc::ExitApp.
+End script: ^Esc::ExitApp.<br/>
 Suspend script: ^Pause::Suspend
 
 This allows me to force shut down any currently running .ahk file by pressing Ctrl+Esc or suspend with Ctrl+Pause.
