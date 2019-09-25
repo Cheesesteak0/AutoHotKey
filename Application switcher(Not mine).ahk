@@ -14,7 +14,10 @@ XButton1 & WheelUp::ShiftAltTab
 ;doubleclick on forward
 XButton2 UP::Click 2
 
+f1::suspend
+
 ^Esc::ExitApp
 
 ;mouse backbutton and the scroll wheel are used as the application switcher, mouse forward count as a double click.
 ;Also wherever your mouse pointer is, scrolling in that window will always work even if its not selected.
+;to suspend the program(in the case you actually wanna use the mouse back button for something else) press f1
