@@ -1,4 +1,4 @@
-End::
+^End::
 Send #d
 Send {Volume_Mute}
 return
