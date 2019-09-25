@@ -10,3 +10,5 @@ Also I use this at the end of all of my scripts: ^Esc::ExitApp.
 What this does is it allows me to force shut down any currently running .ahk file by press Ctrl+Esc.
 
 This purpose of this is mainly just in case one of the scripts malfunctions this will shut it and the rest running down.
+
+I am working on writing a script that will allow me to open all my scripts with one button and then shut them all down by pressing control and the button.
